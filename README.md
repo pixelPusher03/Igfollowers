@@ -1,5 +1,5 @@
-# Inshackle v2.3 
- # Instagram bot,auto follower 
+# If followers
+ # Instagram bot auto follower 
 
   Don't copy this code without give me the credits, nerd! Please read the License  
   thanks to linuxchoice 
@@ -22,21 +22,14 @@
  pkg install openssl
 ```
 ```
- git clone https://github.com/thedeveloper03/inshackle-bot 
+ git clone https://github.com/pixelPusher03/igfollowers 
 ```
 ```
- cd inshackle-bot 
+ cd Igfollowers
 ```
 ```
  bash inshackle.sh 
  ``` 
   
- ## by the developer😡
-  
- ![cb](https://user-images.githubusercontent.com/56509491/66774387-15100580-eedf-11e9-84ff-c0f396016bd5.jpg) 
-  <sub>Copyright © 2023 - <a href="https://github.com/thedeveloper03">The Developer</sub></a> 
-     </div> 
-     <br/> 
-     💖 
- </div>
+ 
 
